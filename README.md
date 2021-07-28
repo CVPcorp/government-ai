@@ -1,5 +1,8 @@
 # List of uses of AI for government
 
+Welcome to the awesome list of uses of AI in government! Below are projects that contributors have read about, participated in, or believe are feasible based on experience with related applications. If you would like to add or revise an item on the list, please send a Pull Request through GitHub.
+
+
 | Potential Agency                        | Application                                                                                                                                                       | Technology                                                                      |   |   |
 |-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---|---|
 | General / All                           | Fraud detection                                                                                                                                                   | Supervised and unsupervised ML                                                  |   |   |
